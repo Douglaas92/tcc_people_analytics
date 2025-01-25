@@ -9,4 +9,3 @@ old/
 *.ipynb_checkpoints/
 __pycache__/
 *.py[cod]
-*.sqlite3
