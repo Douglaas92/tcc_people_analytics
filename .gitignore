@@ -1,0 +1,12 @@
+*.env
+venv/
+*.log
+*.parquet
+*.xlsx
+*.csv
+old/
+.env/
+*.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.sqlite3
