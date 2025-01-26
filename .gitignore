@@ -6,7 +6,6 @@ venv/
 *.xlsx
 *.csv
 old/
-.env/
 *.ipynb_checkpoints/
 __pycache__/
 *.py[cod]
