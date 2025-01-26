@@ -2,3 +2,11 @@ venv/
 *.parquet
 *.env
 *.csv
+*.log
+*.xlsx
+*.csv
+old/
+.env/
+*.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
