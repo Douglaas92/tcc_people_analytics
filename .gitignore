@@ -1,0 +1,9 @@
+venv/
+*.parquet
+*.env
+*.csv
+*.log
+*.xlsx
+*.csv
+old/
+*.ipynb_checkpoints/
