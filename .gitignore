@@ -7,3 +7,6 @@ venv/
 *.csv
 old/
 *.ipynb_checkpoints/
+env/
+experimentos/
+material_suporte/
