@@ -1,12 +1,17 @@
+# Pastas
 venv/
+old/
+*.ipynb_checkpoints/
+env/
+experimentos/
+material_suporte/
+
+# Arquivos e Extensões
 *.parquet
 *.env
 *.csv
 *.log
 *.xlsx
 *.csv
-old/
-*.ipynb_checkpoints/
-env/
-experimentos/
-material_suporte/
+*.ipynb_checkpoints
+
