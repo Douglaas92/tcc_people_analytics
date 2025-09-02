@@ -37,7 +37,3 @@ Por se tratarem de dados previamente organizados e disponibilizados por terceiro
 
 ## 🔄 Considerações Finais
 À construir (Síntese do que foi aprendido, limitações do modelo e possíveis ações futuras, incluindo próximos passos e melhorias)
-=======
-# Repositório destinado ao TCC em DS - MBA USP/Esalq
-
-Neste repositório, tratarei da realização de um Trabalho de Conclusão de Curso, vinculado ao curso de Pós-Graduação da instituição USP Esalq, para a disciplina Data Science and Analytics.
